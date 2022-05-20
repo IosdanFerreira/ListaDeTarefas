@@ -88,7 +88,7 @@ main{
 .item-botao{
     flex: 15%;
 }
-.delete{
+.btnDelete{
     background-color: red;
     color: white;
     border: none;
@@ -97,7 +97,7 @@ main{
     font-size:1.3rem;
     cursor:pointer;
 }
-.delete:hover{
+.btnDelete:hover{
     background-color: rgb(184, 10, 10);
 }
 .mdi-check-circle{
